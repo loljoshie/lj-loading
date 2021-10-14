@@ -1,6 +1,10 @@
 ![LJ Loading](https://user-images.githubusercontent.com/91661118/135742074-9e6a8d49-78ad-4e4b-9399-babc907600f4.png)
 
 # lj-loading
+Join my Discord laboratory for updates, support, and special early testing!
+<br>
+https://discord.gg/HH6uTcBfew
+
 lj-loading used with QBCore Framework
 
 Simple loading screen styled like NP 3.0 
