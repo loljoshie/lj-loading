@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/91661118/135742930-6dcc4a86-bfc8-4b50-
 * Added new practices for fxmanifest
 * Clean up overall
 
-### 1.0.0
+### 1.0
 * Initial release
 
 # Issues and Suggestions
