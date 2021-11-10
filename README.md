@@ -1,4 +1,4 @@
-![LJ Loading](https://user-images.githubusercontent.com/91661118/135742074-9e6a8d49-78ad-4e4b-9399-babc907600f4.png)
+![LJ Loading](https://user-images.githubusercontent.com/91661118/141086857-aa234017-dc3a-4a73-ba7d-950e8201465e.png)
 
 # lj-loading
 Join my Discord laboratory for updates, support, and special early testing!
@@ -30,6 +30,11 @@ ensure lj-loading
 ### ``` Changeable options are found in css / stylesheet.css```
 
 # Change Logs
+
+### 1.2
+* Added new practices for fxmanifest
+* Clean up overall
+
 ### 1.0.0
 * Initial release
 
