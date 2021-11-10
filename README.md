@@ -1,16 +1,19 @@
 ![LJ Loading](https://user-images.githubusercontent.com/91661118/141086857-aa234017-dc3a-4a73-ba7d-950e8201465e.png)
 
-# lj-loading
+# lj-loading used with QBCore Framework
 Join my Discord laboratory for updates, support, and special early testing!
 <br>
-https://discord.gg/HH6uTcBfew
+https://discord.gg/loljoshie
 
-lj-loading used with QBCore Framework
+Simple loading screen styled like NP 3.0, this is for those that edit their own videos. It's very simple. 
+<br>
+Runs at ~ 0.00 ms if you have more optimization suggestions feel free to reach out
+<br>
+* CSS Color Gradient Overlay Generator: https://cssgradient.io/
 
-Simple loading screen styled like NP 3.0 
-This is for those that edit their own videos. It's very simple. 
+# Installation
 
-### CSS Color Gradient Overlay Generator: https://cssgradient.io/
+* Changeable options are found in css / stylesheet.css
 
 # Key Features
 * It loads
@@ -19,15 +22,6 @@ This is for those that edit their own videos. It's very simple.
 * Styled like NP 3.0
 #
 https://user-images.githubusercontent.com/91661118/135742930-6dcc4a86-bfc8-4b50-838d-e4ae49655baf.mp4
-
-# Installation
-
-* Download lj-loading put it anywhere in the [resources] directory.
-* Add the following code to your server.cfg
-```
-ensure lj-loading 
-```
-### ``` Changeable options are found in css / stylesheet.css```
 
 # Change Logs
 
