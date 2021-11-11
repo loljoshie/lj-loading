@@ -12,7 +12,7 @@ Runs at ~ 0.00 ms if you have more optimization suggestions feel free to reach o
 
 # Installation
 
-* **IMPORTANT: If you plan importing a YouTube video you converted from a third party website. There are known issues with HTML video tags not displaying them correctly.**
+* **IMPORTANT: If you plan on importing a YouTube video you converted from a third party website. There are known issues with HTML video tags not displaying them correctly.**
 * **IMPORTANT: Make sure you rename your logo and video in "assets" folder to match with HTML file.**
 
 # Key Features
