@@ -9,21 +9,30 @@ Simple loading screen styled like NP 3.0, this is for those that edit their own 
 <br>
 Runs at ~ 0.00 ms if you have more optimization suggestions feel free to reach out
 <br>
-* CSS Color Gradient Overlay Generator: https://cssgradient.io/
 
 # Installation
 
-* Changeable options are found in css / stylesheet.css
+* **IMPORTANT: If you plan importing a YouTube video you converted from a third party website. There are known issues with HTML video tags not displaying them correctly.**
+* **IMPORTANT: Make sure you rename your logo and video in "assets" folder to match with HTML file.**
 
 # Key Features
 * It loads
 * Changeable logo 
 * Changeable video background overlay
+* Configurable loading bar
+* Configurable separate audio
 * Styled like NP 3.0
 #
 https://user-images.githubusercontent.com/91661118/135742930-6dcc4a86-bfc8-4b50-838d-e4ae49655baf.mp4
 
+* CSS Color Gradient Overlay Generator: https://cssgradient.io/
+
 # Change Logs
+
+### 1.3
+* Added loading bar
+* Added audio option
+* Clean up overall
 
 ### 1.2
 * Added new practices for fxmanifest
