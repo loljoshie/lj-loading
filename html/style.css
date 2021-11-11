@@ -1,0 +1,75 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    z-index: 999;
+    background: #232833; /* load fade in background color */
+}
+
+.logo {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 650px;
+    height: 330px;
+    z-index: 9999;
+}
+
+.loadbar {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    width: 20%;
+    height: 1.5vh;
+    transform: translate(-50%,-50%);
+    background-color: #1b1845;
+    border-radius: 4px;
+    z-index: 9999;
+}
+
+.thingy {
+    position: absolute;
+    left: 0%;
+    width: 10%;
+    height: 1.5vh;
+    background-color: #01f8b9;
+    border-radius: 4px;
+    z-index: 9999;
+}
+
+.print {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #e7e7e7;
+    font-weight: 300;
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    z-index: 9999;
+}
+
+.video-background .overlay {
+    opacity: 0; /* overlay background opacity [currently off for template video] opacity: 0.6; */
+    filter: saturate(161%) contrast(145%); /* overlay extra filters */
+    /*!!!!!!!!!!! UNCOMMENT IF YOU WANT GRADIENT OVERLAY !!!!!!!!!!! CSS Color Gradient Overlay Generator: https://cssgradient.io/*/
+    /*background: linear-gradient(180deg, rgba(0,248,185,1) 0%, rgb(0,248,185) 100%);*/
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+}
+
+video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
