@@ -3,7 +3,7 @@
 # lj-loading used with QBCore Framework
 Join my Discord laboratory for updates, support, and special early testing!
 <br>
-https://discord.gg/loljoshie
+https://discord.gg/loljoshie (without-vanity url: https://discord.gg/HH6uTcBfew)
 
 Simple loading screen styled like NP 3.0, this is for those that edit their own videos. It's very simple. 
 <br>
